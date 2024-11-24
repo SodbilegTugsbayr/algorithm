@@ -1,0 +1,3 @@
+/Users/yujin/Desktop/algorithm/Lab1/build/CMakeFiles/test.dir
+/Users/yujin/Desktop/algorithm/Lab1/build/CMakeFiles/edit_cache.dir
+/Users/yujin/Desktop/algorithm/Lab1/build/CMakeFiles/rebuild_cache.dir
